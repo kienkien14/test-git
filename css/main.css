@@ -1,0 +1,20 @@
+.fruit {
+}
+
+.fruit-text {
+    font-size: 1.4rem;
+    margin-right: 8px;
+}
+
+.fruit-input {
+    font-size: 1.5rem;
+}
+
+.fruit-button {
+    background-color: green;
+    color: white;
+    font-size: 1.8rem;
+    border-radius: 2px;
+    border: 1px;
+    cursor: pointer;
+}
